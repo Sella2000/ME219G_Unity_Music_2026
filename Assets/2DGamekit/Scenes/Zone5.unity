@@ -69537,6 +69537,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
+      propertyPath: bossMusic
+      value: MusicBoss
+      objectReference: {fileID: 0}
+    - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
+        type: 3}
       propertyPath: stage1Value
       value: 1
       objectReference: {fileID: 0}

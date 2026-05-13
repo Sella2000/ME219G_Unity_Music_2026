@@ -100,7 +100,7 @@ MonoBehaviour:
       Data3: 391509149
       Data4: 470346607
     Path: event:/Enemies/Gunner/Enemy_Gunner_Death
-  bossMusic: 
+  bossMusic: MusicBoss
   stageParameter: 
   stage1Value: 0
   stage2Value: 0
